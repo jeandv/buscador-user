@@ -1,0 +1,45 @@
+body {
+    background-color: #141c2f;
+}
+.titulo {
+    color: #fff;
+}
+.tema i {
+    color: #fff;
+}
+.cambiarTema {
+    color: #fff;
+}
+.buscar {
+    background-color: #1f2a48;
+    box-shadow: 3px 2px 5px 2px rgba(0, 0, 0, .5);
+}
+.formInput {
+    color: lightgray;
+}
+.formIcon {
+    color: #0078fe;
+}
+.formIcon:hover {
+    color: #0066da;
+    transition: all 500ms;
+}
+.resultado {
+    background-color: #1f2a48;
+    box-shadow: 3px 2px 5px 2px rgba(0, 0, 0, .5);
+}
+.bio {
+    color: lightgray;
+}
+.stats {
+    background-color: #141c2f;
+}
+.stats > small {
+    color: lightgray;
+}
+.link {
+    color: lightgray;
+}
+.link i {
+    color: white;
+}
