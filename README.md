@@ -1,6 +1,6 @@
 # buscador-user
 
-Desafio de frontendmentor donde uso flex, grid, funciones, eventos, json, API, await, fetch y responsive.
+Desafio de frontendmentor donde uso flex, grid, funciones, eventos, json, API, await, fetch y responsive etc.
 
 - Mas detalles sobre el desafio:
 https://frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6
