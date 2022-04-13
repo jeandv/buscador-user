@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ Desafio de frontendmentor donde uso la api de github en esta doy uso de flex, grid, funciones, eventos, json, API, await, fetch y responsive etc...
+✔ Desafio de frontendmentor donde uso la api de github en esta hago uso de flex, grid, funciones, eventos, json, API, await, fetch y responsive etc...
   Muchos mas detalles sobre el desafio aquí: https://frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6
 
 ## Autor 🤠
