@@ -5,7 +5,6 @@
 
 ## Autor 🤠
 
-· Jean Rondón <br>
 · [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
 · [Twitter](https://www.twitter.com/r4yb4/) <br>
 · [Instagram](https://www.instagram.com/jnxrn/) <br>
@@ -30,3 +29,5 @@ Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](
 # Vista previa 🔎
 
 ![vnhorbifareii6uedrt4](https://user-images.githubusercontent.com/90219458/153733566-8c367b36-7f3c-494d-a93a-c52f8eb64b1c.jpg)
+
+<small>Creado por Jean Rondón</small>
