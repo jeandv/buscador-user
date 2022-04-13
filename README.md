@@ -25,7 +25,7 @@
 
 ## Contratación 📧
 
-Si quieres contratarme puedes escribirme a jeanrdev@gmail.com para consultas.
+Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](https://www.linkedin.com/in/jeandv/) para consultas.
 
 # Vista previa 🔎
 
