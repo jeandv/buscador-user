@@ -5,7 +5,7 @@
 
 ## Autor 🤠
 
-· [LinkedIn](https://www.linkedin.com/in/jeandv/)
+· [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
 · [Twitter](https://www.twitter.com/r4yb4/)
 · [Instagram](https://www.instagram.com/jnxrn/) 
 · [GitHub](https://github.com/jeandv/)
