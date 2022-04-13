@@ -12,7 +12,7 @@
 
 ## URL para ver el resultado 👁‍🗨
 
-✔ Para ver proyecto en directo puedes verlo aquí: https://jeandv.github.io/buscador-user/
+✔ Para ver el resultado final puedes verlo aquí! https://jeandv.github.io/buscador-user/
 
 ## Tecnologias usadas 🛠️
 
