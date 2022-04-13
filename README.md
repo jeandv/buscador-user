@@ -17,7 +17,9 @@
 
 ## Tecnologias usadas 🛠️
 
-· HTML5, CSS3 y Javascript
+· HTML5 <br>
+· CSS3 <br>
+· Javascript <br>
 
 ## Instalación 💻
 
