@@ -5,10 +5,11 @@
 
 ## Autor 🤠
 
+· Jean Rondón <br>
 · [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
-· [Twitter](https://www.twitter.com/r4yb4/)
-· [Instagram](https://www.instagram.com/jnxrn/) 
-· [GitHub](https://github.com/jeandv/)
+· [Twitter](https://www.twitter.com/r4yb4/) <br>
+· [Instagram](https://www.instagram.com/jnxrn/) <br>
+· [GitHub](https://github.com/jeandv/) 
 
 ## URL para ver el resultado 👁‍🗨
 
